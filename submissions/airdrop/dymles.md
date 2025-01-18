@@ -2,7 +2,7 @@
 
 ### Personal information
 
-- github account: https://github.com/DarkSkull777
+- github account: DarkSkull777
 - Email: hpdos075@gmail.com
 - Arweave Address: w6lQenTFUMUjIqjOQnM8liibvh74tOXJdM4QOWgZRZ8
 - ETH Address: 0x101cc2dc461fb6af8c1aa0657c8e0f8b90479d31
